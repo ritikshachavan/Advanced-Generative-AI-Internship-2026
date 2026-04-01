@@ -1,4 +1,8 @@
-#  Chatbot using Transformers
+
+## ⭐ Main Project
+**Chatbot using Transformers (DialoGPT)**
+
+This is my primary project where I built a conversational AI chatbot using Hugging Face Transformers.
 
 ##  Description
 This project is a simple conversational chatbot built using Hugging Face Transformers. It uses a pre-trained DialoGPT model to generate human-like responses and interact with users in real time.
